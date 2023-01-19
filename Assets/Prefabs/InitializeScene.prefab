@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4866269984839944931
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4866269984839944930}
+  - component: {fileID: 4866269984839944929}
+  m_Layer: 0
+  m_Name: InitializeScene
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4866269984839944930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4866269984839944931}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.146131, y: 1.7254106, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4866269984839944929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4866269984839944931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8697ca5a02c40c4eadd306747b0af0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  marioPrefab: {fileID: 7243309992309981212, guid: f07e0a94831fda348a227dbe6a7d2d3a, type: 3}
+  sonicPrefab: {fileID: 1559669110843000925, guid: 70702556ccda3054887701c058e9139d, type: 3}
+  pacManPrefab: {fileID: 5100167808429433499, guid: 3a9d058c1123b684aa4fed7cb18a6d25, type: 3}
+  pikachuPrefab: {fileID: 1173144476682389502, guid: cdf554c40b158a240bb9f2f13c611d89, type: 3}
+  mitsosPrefab: {fileID: 5653763493253530978, guid: 704dacb8e32c6bf43ba52044f3dec33b, type: 3}
+  antigoniPrefab: {fileID: 3289893915334193058, guid: 3ab851b1f128d5149a8a858d1018f9d4, type: 3}
+  giorgakisPrefab: {fileID: 954788605540541142, guid: 50192eea403ab3a44b69bd13892b70ae, type: 3}
+  mparioPrefab: {fileID: 5623141845021399110, guid: 795e94c2efd9c464fbf1c961810d4790, type: 3}

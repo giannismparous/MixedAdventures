@@ -1,0 +1,5723 @@
+fileFormatVersion: 2
+guid: 52295791468c6814bb98cf14e8a8da22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19c8e5541ba1084a89f9ddade31447e
+      internalID: -921092278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f9c6dae0f17654eb53edc7213d3d1e
+      internalID: 1773701888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d6cef06079bd845998fcaa39f864d6
+      internalID: -1469855629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b2296887e4e54e856f71b561b36d9
+      internalID: 59772116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484e9a0ade1952643945810f351d879d
+      internalID: -821129523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c5fc1d2e757f4a828f87859f8d164
+      internalID: 1075607809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc7e7d947e1bc04ebfa621b87f48235
+      internalID: -1472274802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad062b4c90c275f4181db3e344228b22
+      internalID: 1969608066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810d344662d36a40aea6d559c627af3
+      internalID: -1501311361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f72180f7c656304cb19d5302a72c4d5
+      internalID: 661609144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f735e9c7308e418741632841462a6
+      internalID: -1793097534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f3f48212ecb9f499f76a696fa2c0e3
+      internalID: 1526423278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b540e90c950546a6289ddc6181324
+      internalID: 1874617409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e4924ec6858741b216cb2c67c9898
+      internalID: -651785615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ce7c705c183e4aac6a61d672f92ce
+      internalID: -588509185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356af3bf64369904fae1bf03960b762c
+      internalID: -90068093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41dabeb8db0f14a9172de8c45c6ae8
+      internalID: -1021450589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a5de5753d0da4b973ab417ae7e92d
+      internalID: -1625337552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6f7c53434db74bbf3a152b0681588
+      internalID: -2094099494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c273b38df5c2740a3e41c23cc0b70a
+      internalID: -851461634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52f7fd838b86ae49a33a0d987c9bb67
+      internalID: 1777210855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da04503a00b914ab4d2194d18f7ce2
+      internalID: 1163348307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288d0106b8a4f5439d5e3d674a3f5ed
+      internalID: -1272891737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66c5e4d359b9b479538365ece68e30
+      internalID: -150850323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9f54c1715aeb43a32ac92b3487dcb
+      internalID: 1657595523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153323c08566134409b05d63cdf06200
+      internalID: -1684486783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8176743706674d893cb68bbad2389
+      internalID: -410163980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3539838e47f646a203ae6a0871062
+      internalID: -1724695688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46bc6095eafa648966d54cc2191755
+      internalID: -1912352701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58defc782c538864898bfbe79022ff5f
+      internalID: -1040964806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357baa9712bfe746abcf6770195b0f7
+      internalID: 1505924102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81530df4ef7a383459459071a0d0b253
+      internalID: 13257045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32bbf72ca7fbdc4f99bd64b7259faae
+      internalID: 66613268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daed55bfd3750c54dba5c5549edbe895
+      internalID: -49586708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e55d6e1628f2fa4fb0fcf52a9a78479
+      internalID: 1558136084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a7686a06aa5ca4083c4f4c055034cf
+      internalID: 130494829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ade621294f7b3043aa9d54757285cc3
+      internalID: -1188194717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abbb6de37c622941b057089edad417a
+      internalID: -1070602419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b199163ddbc8504aa9019b20d79359d
+      internalID: -1981255528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb215bb777a38444eb539bca4fb5dac5
+      internalID: 1421276854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8ddca50188dc84eb8c918047eda556
+      internalID: 125894941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0698f7883f027144a35d283a754598f
+      internalID: -625805915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d10cdb28e77a34f85304bfa8a56040
+      internalID: -1191712168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9087953f6f484a9a9739dc694e602
+      internalID: 699906960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1623c7f583e72d7468e8a32baa89e359
+      internalID: -636765887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f22e18541db044bbed85132ac490c
+      internalID: 627224860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919ac382c337eb45834215066048eb0
+      internalID: 1261296463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534244f0d7a38634aa98fc913c4b70ed
+      internalID: 1530284605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d26ea83672334bb3879c6845dbe25
+      internalID: -1255742099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8635b4bfb04df4748be68a6f68de37b1
+      internalID: 1628959189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d961fdc9d424e4185ec7259000faba
+      internalID: -1510923005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835edb6fe04d25448988683471e80e44
+      internalID: -243683175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de3f2dbe936364f8dc407013d8bd17
+      internalID: -1843159685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4aff6063732f4f91cf26b51321c12
+      internalID: 210480041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1790619e73d6614c8b2060ba66ce913
+      internalID: -329611733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bc993d914bc1247926990b215c2c80
+      internalID: 1554263449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb015e865a40c9b49b43efec56aaae4b
+      internalID: 2034177566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7182b9a1b06708b4d85e14de92cccf05
+      internalID: 1877220448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66921f48ee81a6b469e3bb040ff91eb8
+      internalID: 341290158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2516e14d491d42952149defece11b
+      internalID: 1032948141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd108a88e19b534ca261f533c797913
+      internalID: 146274042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e4e68f2072814abb04f5f82a5237a
+      internalID: 1791591266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99844b992ac67548b68e9288ff919fd
+      internalID: -919934096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f39173324b1b9944b77a35a25e0427e
+      internalID: -1607994176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b124dc76b226434db6e00e8753aa2b0
+      internalID: -996375382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba713ec7e0c9dd240a5e2a01a97293c8
+      internalID: -622459085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7ab239de301748b241fdf1aa94004
+      internalID: 1456677877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71888cb6cda424c95812aee0acb83d
+      internalID: -566067209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3b85d6cfcb5a49887739759793697
+      internalID: -689728491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5f0176de376bb499dfc8b713c4ebc5
+      internalID: -1439613829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbf9d0c6e809384f81c2d53af8f495a
+      internalID: -2004850233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab921b3a959505c41949fcd75b13f0a9
+      internalID: -1175506029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65c97a575c76549870e94639ded37d
+      internalID: -1752281195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca0cc98f72def46aa83eaaf7db773a
+      internalID: 753058519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f9c439c0b2c64f8386e4a0f25a448
+      internalID: 252869822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217a0dbefd463b34092e7940dd43acb6
+      internalID: -934089872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d5d80898ead834897636b6f165d2ee
+      internalID: 820752122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28a32b876b55464290b23c43914a38b
+      internalID: -1566202143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb6f37cf7708245a3d92c57d349356
+      internalID: -635771421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8597b3c7b80ae4382207291a7b75b1
+      internalID: -1386953787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179043d1bf9e45a449363980629a139f
+      internalID: -1223898892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941cbe0fada850246b88cd8af837c4d8
+      internalID: 1259754782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65586b15022f944acdbabc6f96a6ad
+      internalID: -1195270806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e81ebd265998d44943885a23d02d97
+      internalID: -927953795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fceed08bd0bc345a5c7415d91569b3
+      internalID: -1316676425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f17a111e969941ad3d1c25045e97b
+      internalID: 1144964659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b8fab908e4fda47bdde46d2e85435c
+      internalID: 1647560217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7db1ee8a78e243975cded333ff822
+      internalID: 1365344138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026f55f2511c5e469c8e300761aa9b7
+      internalID: -252778486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7109dc7d09614b886c0fee6c7bebd
+      internalID: -1849930738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d13fd8af1dad24b9915004b629a7f9
+      internalID: 2021136866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14dc71f1fa3f7c46b086510ee7d11f1
+      internalID: 532240306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57978cfddbccd9343a58e690d2542836
+      internalID: -2055824546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4d29340fed9e4fa5065e102f99164
+      internalID: -1682243079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542b9dcfa329c140bbf8a3789a57ed9
+      internalID: -1004632626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6e61bcfce06e4bb9b4d13217bf0f3
+      internalID: 1573378105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb85798bba21a1d439ff53e76e3feee9
+      internalID: 1308283028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03bf050a08d5fd43b1f37d615e36e1d
+      internalID: -45090763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66028f121a0b49941974a3a0e9a63267
+      internalID: 1608821172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4f32513e40dc41a068b45e4c8ebc9
+      internalID: -36404296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc0e84c9422b44c815e03720a2b30f
+      internalID: 1416048250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca93ea379729e3439425b8bfbfa4558
+      internalID: -1577440490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ba3cfb6574724d8dd7a21179c0551
+      internalID: 1756679596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcbe578776c8dd47b99b03090e0352d
+      internalID: 181982547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15801ecd694e9624799683d0781319d1
+      internalID: -37370049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42772343589da8d41b2d81acfbbdcdc7
+      internalID: 1178771843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f27182688c71741bc4b7ddaad4467d
+      internalID: -2122823125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57033349acf5064a900d6c8ca7529e2
+      internalID: -1426419021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f5dae5eae25a458f0d5021b6221e8
+      internalID: 1490922884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ca94888a591949a32ee5e347f2885
+      internalID: -131025318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29039c6f4c4ad5e48924e6b4c8e6bd66
+      internalID: 761676666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298820c00a19c1747b19c47c220f7348
+      internalID: -1524383533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e75b5bed492644ad284f4e164c629
+      internalID: 2106066920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469dd7dbce4960499230e583692ae93
+      internalID: 1359980796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc860477849b043b0a1b601bafd145
+      internalID: -1776012526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615910f532080ba439106bea8312252b
+      internalID: -1174449478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d10d67bad5c945871694ee3247d48
+      internalID: -311584934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781dd8d76f7099408c246892aa543ed
+      internalID: -2085880682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece66b9d05c35274281b2051c896ac40
+      internalID: -802052880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84db65169e148b429506c3b6e3c6cb6
+      internalID: -1306968831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7f791cd9e6e346ae8cf1a52b63a5f
+      internalID: 1799322490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad8fa4c784a4d41b115be2d8ddc460
+      internalID: 89890748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30891c06ddf936947b24ea2adb3e6504
+      internalID: -44843012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4712c30365d56429afa31c52d3a98f
+      internalID: 142934831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745f7376d580e8b449ca0a299308a14b
+      internalID: -1108613269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97e55c389105646be0278f5202456a
+      internalID: -1215474646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f43730a88766448128a575fa44ad4
+      internalID: 1587221061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc92e64af28aacd4e8c9901420b5421d
+      internalID: 525157511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5ed37b80559c40ad05d818f20b8eb
+      internalID: -1512726483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1d95a5ac222a4d81c0c3d2c95e98f
+      internalID: -481970098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6579cf5cad1d47971c457aecd2699
+      internalID: -1372983766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bfb90a50e168644a2282a03567d156
+      internalID: -963616225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9e36967ff11a44807f915a4dd8c9c
+      internalID: 133795933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a629c9808010024491a1968b65acbfd
+      internalID: -2031246169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e884e7059e70d4c8a5b69ac492f3c3
+      internalID: -1584386635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aca3981f7fc5044afab2681d863248
+      internalID: -308281562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d7696a86135f34b8d04c6d19c65419
+      internalID: -68925576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac81a304eb63ea479a013dabcfce123
+      internalID: 1321153663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a469ee1e05734da5f207fe83917f6
+      internalID: 995995955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2fe2fa36a3ced4b8550cdb06afb548
+      internalID: 351152102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82057230e919dd4dbf09f52b8ed0529
+      internalID: 800464400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f88decfbca234f9dc567496d9fab3
+      internalID: -1605118841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8d62de0f5d8d4490123246455336b
+      internalID: 227921280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d127e138450f4e4cb2d786b613d7a48
+      internalID: 315994210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794b030092a7e54b934f0ac8f4847f9
+      internalID: -204528299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 664
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f284985fb09076489245d1e4ca5e212
+      internalID: -413090287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9bd53d6a5ebc4fa992c1a27f049b5
+      internalID: -970428963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba746704037ab8b4c95aa190c4d6d2d7
+      internalID: 1339181711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf050a7db9350584bab7bde5709d5637
+      internalID: 1776645703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28bc63f4e82fc8479ac87f82eace386
+      internalID: -1272096988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023fc68c144dc64f8e3ab42c933a37c
+      internalID: 625790549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d20cc51d377da46a9193159b564304
+      internalID: 274205334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d481da50a7af3e9408037b5f302d3d45
+      internalID: 2003506952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042de9c0207666c40b263cdcf88757e3
+      internalID: -188779411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e3c9214190ab408205285a8a85cb5
+      internalID: -1960918134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e997675626f5184fad8474e7e720d71
+      internalID: -776615165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_156
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc744b0636d04754c8839696e2ae6702
+      internalID: 832800024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_157
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d02abdfbdf479a44817abb8a48c91f1
+      internalID: -211516088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_158
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d598bed63bd84484d503cf2569a29
+      internalID: -147936672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_159
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26e13106fd6eb42a16de6153f4793d
+      internalID: 846654089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_160
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4cc90d9cb92cf4f85ec42387d66169
+      internalID: 1744423948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_161
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1ec4db6db9394bbe1b79984e98f8b
+      internalID: 562966282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_162
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734eec02c4e8d54ca167af2694c364d
+      internalID: -1436881852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_163
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1d03bafdb0be4eb547ee76d520420
+      internalID: 3416697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_164
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ce573e3ed04045bc7b793815f7cde
+      internalID: -12984101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_165
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e476f73b523d44fa0bd78aef885948
+      internalID: 1328553933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_166
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ab266815bc64478e7dce8777d0de7
+      internalID: -491718419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_167
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b8d572a08a47489b5258e17058d66
+      internalID: 849834428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_168
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c492acbd669c5b489a26b66bbaf36c0
+      internalID: 178509659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_169
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3fd05382f66c94f9f8c1d299b0e10e
+      internalID: 1866955204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_170
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d6e814375cb743aff42c444c1f8da
+      internalID: 1594968631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee7a366c29ee648a45f150737b5f37
+      internalID: 1336018824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_172
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312289e0ab424ba4ba3dab49a01ca5fd
+      internalID: 864534608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_173
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31422a84d3dbf4289241a5375531d8
+      internalID: 513883809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_174
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5ed3d80b0d3d468e7305e70137a5c
+      internalID: -1044710040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_175
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b71f920e4c4b047b4d098a2660bf81
+      internalID: 818451946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_176
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf791c06c53b1694e961fed5636fa5e8
+      internalID: -873196480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_177
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd63f1e9584bde4b8e5f86e2fa317af
+      internalID: 372019327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_178
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe68086ac4b5b44b2dcfffa36db9d5
+      internalID: 1491461191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_179
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becec5260043b7840af9546bfa4dc1c8
+      internalID: 1263252104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_180
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d4ab4008b6dc42b74f382cf3e06a4
+      internalID: 211868408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_181
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be08d47cf6714b4d80b5722c20c7deb
+      internalID: 1239700258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_182
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a109850de42f24aa7bbc8363da2ca4
+      internalID: 688995480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_183
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c0e31660be1db42be43a233aeb127b
+      internalID: -324993213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_184
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f521804aadee3242b2c881ce00506af
+      internalID: -1263697936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_185
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efefd1b810ed84fbdc0c6440ed31e0
+      internalID: -343823001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_186
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222acbd3d89f4d64da3c8754bf4e57e3
+      internalID: -1348751531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_187
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f825f7be7b3f46b1429f69e256a98
+      internalID: 1850836144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_188
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b3f9d5d95e844989f434f8e361b18
+      internalID: -1044881693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_189
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b888473ebe1c54985062d6e66203e8
+      internalID: -1936228802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_190
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae16fdf9e5fe104bad8102658942e31
+      internalID: 1608777359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_191
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa11efac816acd4b9814e2de7b42988
+      internalID: -1424441697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_192
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695acb620d523d04db350d04b1d5073d
+      internalID: -739659180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_193
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8d7440741497d4898077c0e41bff11
+      internalID: 1832852889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_194
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba060c52ae21140843ec40c3af0a2a
+      internalID: -219710761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_195
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85575156605595343806bd0e3337b855
+      internalID: 574162194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_196
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7281153e617c41b4e95597a1d494f7b4
+      internalID: -524995994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_197
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88510f450f6762a4b98373e4daddb358
+      internalID: 1274212202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_198
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4557bc3d865c44a6ff562dcf14e8e
+      internalID: 313780983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_199
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4b53d1108cb740b8f253c32b13008
+      internalID: 1043556225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_200
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99671820e717234f8d9c0ea70b456f4
+      internalID: -1178571664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_201
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5bb052aac06a748b9f6738bd05f105
+      internalID: 895734113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_202
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9285928b2f78de24b8ef0339c9a92e86
+      internalID: 1848090092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_203
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed4b7b8d12d30478fa668071953246
+      internalID: -1005415041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_204
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6956287a1d63c419f55973154fdfbb
+      internalID: 474305744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_205
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a77bcb6d9ff694bb7b8a3670e29317
+      internalID: -898405602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_206
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f460f8253409e94d90416f3e2dffbf0
+      internalID: 1985522759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_207
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07b73b070d4214fa0d96c34f3fded7
+      internalID: -1069444028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0979e5712c114d84ecb2bdb108235
+      internalID: 1568170058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_209
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1059e693ce00248be279061c531561
+      internalID: -610123445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_210
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475f3af3a5c9ad489f46e9638d46b13
+      internalID: -759656418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_211
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b3d73d5fd3ef40ab5a5094f48fdf4
+      internalID: -1766658616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_212
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a98580673cc94cb72184fa80eb079
+      internalID: 1345090437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_213
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f057fbffdba9445b61a87826763abc
+      internalID: -1109876800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_214
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96811813b8747144191443a25edd98c2
+      internalID: -1285027826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_215
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352b7d5857201b46bdda74b9fec592a
+      internalID: 920932191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_216
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bff9aec0bd71a4d9303cedb141bd47
+      internalID: 1109916304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_217
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be44f2e6bd4e0b4daec95e8fbd759a5
+      internalID: 1523452653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_218
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada6fc03c73a8844b9a872f67e90756
+      internalID: -724699658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_219
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fab46599462454aabc865fb0723954
+      internalID: 1193646252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_220
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce76e06aed5ca44bf78a21eebad9f2
+      internalID: -276218600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_221
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094d6d62fc817d24fb7464016afe49fd
+      internalID: 2106368410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_222
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b1356eff16024aa0e888c30b026cf
+      internalID: -572180821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_223
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd832a92b5799439ffe285d97e499c
+      internalID: -286493407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_224
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54420a38917c74f4c84d566c90441f1a
+      internalID: 2026940461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_225
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62608ce6185547041acc8902435da994
+      internalID: -77853778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_226
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48c1c8eef81114d99f6fc44078f5de
+      internalID: 2039615641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_227
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab17522df085245b957023b1d7fd38
+      internalID: -1570837558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_228
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6593439d23e7b8459bdaecc4a987eed
+      internalID: -1090513303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_229
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eab45b7ea618146af62d3d660dbb4c
+      internalID: 2047109655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_230
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0b7c30eaa0d944a35719902e66c91
+      internalID: -466731860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_231
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073840b52f14d2f4691738b86fa72ba1
+      internalID: 2017915050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_232
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3e176f2ebd6c4e91aa886c84a7b34
+      internalID: 1528560141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_233
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869997149358bf4a93c36052ecc6a55
+      internalID: -369693994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_234
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8d7b92c086e24da3ed1f1f3e1e540
+      internalID: 789497442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_235
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991aba46f009b684a93c03f4a4e548c3
+      internalID: 635342130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_236
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ac47cb071b634580ae1e482493862
+      internalID: 2071033929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_237
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dfc895415598844ab789c1a5783f8a
+      internalID: 1026382606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_238
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9417473f84e564ba52c5816d53fc1c
+      internalID: -950236389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_239
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e911f60c5ae2ed4e85544485fc4c9f4
+      internalID: -1042362334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_240
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a08f2249688c419f42e70a1bf5ba9
+      internalID: 2008992045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_241
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c072f34169140c4d9ad59d66debaa9d
+      internalID: -922680630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_242
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f44300b4feab344864c3910c3cb3a0
+      internalID: -1783401316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_243
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20005873c8a4234291ca0121ec82cb3
+      internalID: 686843404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_244
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f350d966067d47bea4c2a6b3a90d8
+      internalID: 415697406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_245
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d77f0d3e598f4e4c8d7c2e07d201a63
+      internalID: -1759867442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_246
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6ae97d92d9244b9f2065d20cc32de
+      internalID: 878017093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_247
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491586b400d63a4e82bf846130a0669
+      internalID: -1839257157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_248
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba9d920ce568944b42eff01242bfd5
+      internalID: -1416876168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_249
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326cd0fd3a98fe94bbcfbb884bc476e6
+      internalID: -1757099433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_250
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153d7b25d446d443a3a926eeab7c00e
+      internalID: -1173232835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_251
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4139624892d649d4cb501078fd1cf86e
+      internalID: -212761682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_252
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d4876123e6e14f9674db7b7c3ceec
+      internalID: -337361054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_mushroom_tiles_253
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788543957c90e1d4bb9868145ca45823
+      internalID: -1628203986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mario_mushroom_tiles_221: 2106368410
+      mario_mushroom_tiles_179: 1263252104
+      mario_mushroom_tiles_26: -410163980
+      mario_mushroom_tiles_52: -1843159685
+      mario_mushroom_tiles_121: 89890748
+      mario_mushroom_tiles_92: -2055824546
+      mario_mushroom_tiles_98: 1608821172
+      mario_mushroom_tiles_219: 1193646252
+      mario_mushroom_tiles_0: -921092278
+      mario_mushroom_tiles_99: -36404296
+      mario_mushroom_tiles_76: 820752122
+      mario_mushroom_tiles_79: -1386953787
+      mario_mushroom_tiles_235: 635342130
+      mario_mushroom_tiles_220: -276218600
+      mario_mushroom_tiles_17: -1625337552
+      mario_mushroom_tiles_36: -1188194717
+      mario_mushroom_tiles_214: -1285027826
+      mario_mushroom_tiles_28: -1912352701
+      mario_mushroom_tiles_135: -308281562
+      mario_mushroom_tiles_72: -1752281195
+      mario_mushroom_tiles_69: -1439613829
+      mario_mushroom_tiles_146: -970428963
+      mario_mushroom_tiles_227: -1570837558
+      mario_mushroom_tiles_153: -188779411
+      mario_mushroom_tiles_67: -566067209
+      mario_mushroom_tiles_147: 1339181711
+      mario_mushroom_tiles_122: -44843012
+      mario_mushroom_tiles_150: 625790549
+      mario_mushroom_tiles_241: -922680630
+      mario_mushroom_tiles_16: -1021450589
+      mario_mushroom_tiles_207: -1069444028
+      mario_mushroom_tiles_2: -1469855629
+      mario_mushroom_tiles_46: 1261296463
+      mario_mushroom_tiles_115: -1174449478
+      mario_mushroom_tiles_117: -2085880682
+      mario_mushroom_tiles_187: 1850836144
+      mario_mushroom_tiles_33: -49586708
+      mario_mushroom_tiles_125: -1215474646
+      mario_mushroom_tiles_224: 2026940461
+      mario_mushroom_tiles_142: 227921280
+      mario_mushroom_tiles_229: 2047109655
+      mario_mushroom_tiles_233: -369693994
+      mario_mushroom_tiles_123: 142934831
+      mario_mushroom_tiles_188: -1044881693
+      mario_mushroom_tiles_196: -524995994
+      mario_mushroom_tiles_212: 1345090437
+      mario_mushroom_tiles_178: 1491461191
+      mario_mushroom_tiles_133: -2031246169
+      mario_mushroom_tiles_218: -724699658
+      mario_mushroom_tiles_44: -636765887
+      mario_mushroom_tiles_168: 178509659
+      mario_mushroom_tiles_160: 1744423948
+      mario_mushroom_tiles_251: -212761682
+      mario_mushroom_tiles_195: 574162194
+      mario_mushroom_tiles_48: -1255742099
+      mario_mushroom_tiles_149: -1272096988
+      mario_mushroom_tiles_91: 532240306
+      mario_mushroom_tiles_240: 2008992045
+      mario_mushroom_tiles_106: -2122823125
+      mario_mushroom_tiles_75: -934089872
+      mario_mushroom_tiles_77: -1566202143
+      mario_mushroom_tiles_155: -776615165
+      mario_mushroom_tiles_119: -1306968831
+      mario_mushroom_tiles_18: -2094099494
+      mario_mushroom_tiles_47: 1530284605
+      mario_mushroom_tiles_93: -1682243079
+      mario_mushroom_tiles_116: -311584934
+      mario_mushroom_tiles_213: -1109876800
+      mario_mushroom_tiles_211: -1766658616
+      mario_mushroom_tiles_132: 133795933
+      mario_mushroom_tiles_201: 895734113
+      mario_mushroom_tiles_3: 59772116
+      mario_mushroom_tiles_111: -1524383533
+      mario_mushroom_tiles_35: 130494829
+      mario_mushroom_tiles_200: -1178571664
+      mario_mushroom_tiles_8: -1501311361
+      mario_mushroom_tiles_80: -1223898892
+      mario_mushroom_tiles_32: 66613268
+      mario_mushroom_tiles_81: 1259754782
+      mario_mushroom_tiles_23: -150850323
+      mario_mushroom_tiles_104: -37370049
+      mario_mushroom_tiles_14: -588509185
+      mario_mushroom_tiles_205: -898405602
+      mario_mushroom_tiles_230: -466731860
+      mario_mushroom_tiles_71: -1175506029
+      mario_mushroom_tiles_194: -219710761
+      mario_mushroom_tiles_246: 878017093
+      mario_mushroom_tiles_242: -1783401316
+      mario_mushroom_tiles_170: 1594968631
+      mario_mushroom_tiles_21: 1163348307
+      mario_mushroom_tiles_9: 661609144
+      mario_mushroom_tiles_206: 1985522759
+      mario_mushroom_tiles_225: -77853778
+      mario_mushroom_tiles_10: -1793097534
+      mario_mushroom_tiles_65: -622459085
+      mario_mushroom_tiles_68: -689728491
+      mario_mushroom_tiles_140: 800464400
+      mario_mushroom_tiles_253: -1628203986
+      mario_mushroom_tiles_183: -324993213
+      mario_mushroom_tiles_88: -252778486
+      mario_mushroom_tiles_173: 513883809
+      mario_mushroom_tiles_228: -1090513303
+      mario_mushroom_tiles_247: -1839257157
+      mario_mushroom_tiles_6: -1472274802
+      mario_mushroom_tiles_20: 1777210855
+      mario_mushroom_tiles_31: 13257045
+      mario_mushroom_tiles_38: -1981255528
+      mario_mushroom_tiles_89: -1849930738
+      mario_mushroom_tiles_58: 341290158
+      mario_mushroom_tiles_130: -1372983766
+      mario_mushroom_tiles_231: 2017915050
+      mario_mushroom_tiles_70: -2004850233
+      mario_mushroom_tiles_172: 864534608
+      mario_mushroom_tiles_11: 1526423278
+      mario_mushroom_tiles_87: 1365344138
+      mario_mushroom_tiles_39: 1421276854
+      mario_mushroom_tiles_180: 211868408
+      mario_mushroom_tiles_82: -1195270806
+      mario_mushroom_tiles_189: -1936228802
+      mario_mushroom_tiles_169: 1866955204
+      mario_mushroom_tiles_157: -211516088
+      mario_mushroom_tiles_208: 1568170058
+      mario_mushroom_tiles_94: -1004632626
+      mario_mushroom_tiles_199: 1043556225
+      mario_mushroom_tiles_19: -851461634
+      mario_mushroom_tiles_176: -873196480
+      mario_mushroom_tiles_25: -1684486783
+      mario_mushroom_tiles_103: 181982547
+      mario_mushroom_tiles_102: 1756679596
+      mario_mushroom_tiles_175: 818451946
+      mario_mushroom_tiles_137: 1321153663
+      mario_mushroom_tiles_190: 1608777359
+      mario_mushroom_tiles_245: -1759867442
+      mario_mushroom_tiles_107: -1426419021
+      mario_mushroom_tiles_243: 686843404
+      mario_mushroom_tiles_144: -204528299
+      mario_mushroom_tiles_139: 351152102
+      mario_mushroom_tiles_105: 1178771843
+      mario_mushroom_tiles_110: 761676666
+      mario_mushroom_tiles_204: 474305744
+      mario_mushroom_tiles_95: 1573378105
+      mario_mushroom_tiles_159: 846654089
+      mario_mushroom_tiles_236: 2071033929
+      mario_mushroom_tiles_210: -759656418
+      mario_mushroom_tiles_222: -572180821
+      mario_mushroom_tiles_158: -147936672
+      mario_mushroom_tiles_141: -1605118841
+      mario_mushroom_tiles_101: -1577440490
+      mario_mushroom_tiles_209: -610123445
+      mario_mushroom_tiles_244: 415697406
+      mario_mushroom_tiles_203: -1005415041
+      mario_mushroom_tiles_27: -1724695688
+      mario_mushroom_tiles_182: 688995480
+      mario_mushroom_tiles_15: -90068093
+      mario_mushroom_tiles_85: 1144964659
+      mario_mushroom_tiles_162: -1436881852
+      mario_mushroom_tiles_202: 1848090092
+      mario_mushroom_tiles_66: 1456677877
+      mario_mushroom_tiles_100: 1416048250
+      mario_mushroom_tiles_198: 313780983
+      mario_mushroom_tiles_185: -343823001
+      mario_mushroom_tiles_51: -243683175
+      mario_mushroom_tiles_250: -1173232835
+      mario_mushroom_tiles_131: -963616225
+      mario_mushroom_tiles_29: -1040964806
+      mario_mushroom_tiles_63: -1607994176
+      mario_mushroom_tiles_192: -739659180
+      mario_mushroom_tiles_252: -337361054
+      mario_mushroom_tiles_186: -1348751531
+      mario_mushroom_tiles_234: 789497442
+      mario_mushroom_tiles_165: 1328553933
+      mario_mushroom_tiles_34: 1558136084
+      mario_mushroom_tiles_43: 699906960
+      mario_mushroom_tiles_56: 2034177566
+      mario_mushroom_tiles_37: -1070602419
+      mario_mushroom_tiles_62: -919934096
+      mario_mushroom_tiles_163: 3416697
+      mario_mushroom_tiles_55: 1554263449
+      mario_mushroom_tiles_60: 146274042
+      mario_mushroom_tiles_124: -1108613269
+      mario_mushroom_tiles_84: -1316676425
+      mario_mushroom_tiles_41: -625805915
+      mario_mushroom_tiles_90: 2021136866
+      mario_mushroom_tiles_73: 753058519
+      mario_mushroom_tiles_59: 1032948141
+      mario_mushroom_tiles_138: 995995955
+      mario_mushroom_tiles_86: 1647560217
+      mario_mushroom_tiles_49: 1628959189
+      mario_mushroom_tiles_64: -996375382
+      mario_mushroom_tiles_232: 1528560141
+      mario_mushroom_tiles_128: -1512726483
+      mario_mushroom_tiles_97: -45090763
+      mario_mushroom_tiles_126: 1587221061
+      mario_mushroom_tiles_108: 1490922884
+      mario_mushroom_tiles_148: 1776645703
+      mario_mushroom_tiles_216: 1109916304
+      mario_mushroom_tiles_145: -413090287
+      mario_mushroom_tiles_177: 372019327
+      mario_mushroom_tiles_164: -12984101
+      mario_mushroom_tiles_161: 562966282
+      mario_mushroom_tiles_174: -1044710040
+      mario_mushroom_tiles_78: -635771421
+      mario_mushroom_tiles_181: 1239700258
+      mario_mushroom_tiles_217: 1523452653
+      mario_mushroom_tiles_12: 1874617409
+      mario_mushroom_tiles_24: 1657595523
+      mario_mushroom_tiles_42: -1191712168
+      mario_mushroom_tiles_53: 210480041
+      mario_mushroom_tiles_193: 1832852889
+      mario_mushroom_tiles_151: 274205334
+      mario_mushroom_tiles_120: 1799322490
+      mario_mushroom_tiles_113: 1359980796
+      mario_mushroom_tiles_171: 1336018824
+      mario_mushroom_tiles_50: -1510923005
+      mario_mushroom_tiles_5: 1075607809
+      mario_mushroom_tiles_197: 1274212202
+      mario_mushroom_tiles_7: 1969608066
+      mario_mushroom_tiles_13: -651785615
+      mario_mushroom_tiles_61: 1791591266
+      mario_mushroom_tiles_248: -1416876168
+      mario_mushroom_tiles_143: 315994210
+      mario_mushroom_tiles_22: -1272891737
+      mario_mushroom_tiles_112: 2106066920
+      mario_mushroom_tiles_74: 252869822
+      mario_mushroom_tiles_4: -821129523
+      mario_mushroom_tiles_109: -131025318
+      mario_mushroom_tiles_30: 1505924102
+      mario_mushroom_tiles_223: -286493407
+      mario_mushroom_tiles_226: 2039615641
+      mario_mushroom_tiles_83: -927953795
+      mario_mushroom_tiles_152: 2003506952
+      mario_mushroom_tiles_191: -1424441697
+      mario_mushroom_tiles_156: 832800024
+      mario_mushroom_tiles_45: 627224860
+      mario_mushroom_tiles_40: 125894941
+      mario_mushroom_tiles_57: 1877220448
+      mario_mushroom_tiles_184: -1263697936
+      mario_mushroom_tiles_166: -491718419
+      mario_mushroom_tiles_114: -1776012526
+      mario_mushroom_tiles_167: 849834428
+      mario_mushroom_tiles_238: -950236389
+      mario_mushroom_tiles_129: -481970098
+      mario_mushroom_tiles_239: -1042362334
+      mario_mushroom_tiles_134: -1584386635
+      mario_mushroom_tiles_154: -1960918134
+      mario_mushroom_tiles_96: 1308283028
+      mario_mushroom_tiles_54: -329611733
+      mario_mushroom_tiles_215: 920932191
+      mario_mushroom_tiles_127: 525157511
+      mario_mushroom_tiles_1: 1773701888
+      mario_mushroom_tiles_118: -802052880
+      mario_mushroom_tiles_237: 1026382606
+      mario_mushroom_tiles_249: -1757099433
+      mario_mushroom_tiles_136: -68925576
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

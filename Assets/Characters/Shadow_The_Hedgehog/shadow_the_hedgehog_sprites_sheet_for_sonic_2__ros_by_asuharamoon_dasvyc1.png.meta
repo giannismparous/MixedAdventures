@@ -1,0 +1,4379 @@
+fileFormatVersion: 2
+guid: 679b9bd4ef7c35443809e4ddba730846
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 522
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f9f4dc8d4b9f4dbb722a25426fdf4
+      internalID: -323370262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 522
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246a0ae0a1736514eb50e14e42586f35
+      internalID: 2020092354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 522
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fca0fd2c68bc534187d0408b712bc80
+      internalID: -1705531753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 522
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0811dacc57fb1cb4f97c2445f1ceffe3
+      internalID: 1583949449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 522
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4f4e0334544a41a346e1f668e942a
+      internalID: -1591960915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 522
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f668da4cc96d9cb4fb21f8b59ca176ce
+      internalID: 182799829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 522
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb98091d9905742b9b01fe792ab77f
+      internalID: 1025597043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 522
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345f69a3bf7c254ebce7253c89c053a
+      internalID: -1511852581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 522
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674ab8a5654730b42add293704d584b1
+      internalID: 1355239778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 522
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8777fabf7d07cec4196fb397f30816cc
+      internalID: -733735339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 522
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04290b136ec27ab42b767180c061f5b3
+      internalID: -1090135008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 522
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb378d0d498800e44a8d6c1efdd85db5
+      internalID: -1548191607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 522
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad742d193592746af3fcf29c338a5e
+      internalID: -1049457363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 522
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48644229eda1a9d4682d7eaf25ff49c0
+      internalID: -2132614970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_36
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 522
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20d0c9c762c1e408821a5e8989982d
+      internalID: -224416599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 475
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41679254e763c794981deab123141943
+      internalID: 2005826509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 475
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ebf917d75ee24d9048b9a2ae82b01
+      internalID: 1981940193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 475
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6ed747cf51004a81f7d621b418ce2
+      internalID: 183082292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 476
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bc7c781ef8cd42a76c1fba7e38307
+      internalID: -715696936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 475
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727483d6d741f8c4db953c3a29593a60
+      internalID: -1015474107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 475
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bdb47d4689c747a2c35ba008f87a6
+      internalID: 564642967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 475
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe1bcdd49f7ba4ba7dee92d00c318d
+      internalID: 1351356873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 475
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50917e784345c3b4baff2b38fb3eb182
+      internalID: -1629813715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 490
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2196d274af0048a54e74b9e9ba827
+      internalID: 196139045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 474
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b969dbc48dc245aed186b6ab66c40
+      internalID: -1608561457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 474
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ece2fccdc58b1408c7e5f896db8c87
+      internalID: 820713060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_58
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 474
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcffddf812b5b4745b6f4a1d45649e14
+      internalID: -2103049705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_59
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 472
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d84664c20d08489419c276f5ec94a
+      internalID: 561170584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_60
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 475
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c73774af1e794b89526ef91b769ff
+      internalID: 323995686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_61
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 475
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae181ee27a28e8542a5a296486e5cf3e
+      internalID: 1735229359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_62
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 475
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90099e7606dabf24592f9347a8b1af3c
+      internalID: 415954494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 474
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd22f0fcbf8b3744ac5152d272b82b3
+      internalID: -1697148229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77be1fde94c5840b50dde09d7baea2
+      internalID: 1899038295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 425
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01dfbeac3d9314893a051c54d612b7
+      internalID: 1129056103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 425
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dcd425e63a7064582af0755a30c658
+      internalID: 1578257032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 423
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd9ff62babb62148a54868b1b33907e
+      internalID: -2001024487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 425
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f326e27d59bbcb34788e096219d928e1
+      internalID: 515961156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_69
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 423
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257535ebeaba2874cb255567e2281441
+      internalID: 767351110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 423
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ff0a311b7f6345b02bb90855fa4e6
+      internalID: 2134537852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_71
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 426
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa8b10316249a448794a6a71206e6f
+      internalID: 767920959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_72
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 426
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed6b81f91187704e9a7d7126798b851
+      internalID: 251850436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 425
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10634bb6710bc24ca3510968fb3ff06
+      internalID: -2128901091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_74
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 423
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b74c972ccdc747b250e14d9641d4b
+      internalID: 1657521788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_75
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 425
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf06a7f9cbd68334c9119d22b28d5e66
+      internalID: -954116841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_76
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 423
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce87a3558288c4cb613d4b5f700e05
+      internalID: 1377797065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_77
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 425
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2730183a59bed34197a03dfd9aa0fe5
+      internalID: -2095889287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_78
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 423
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0549d56b63b7a4ca519aa1c0eda2cb
+      internalID: 735359672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_79
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 426
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebfa79e5cfc7a04cb2db7682bc02505
+      internalID: -243688774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 377
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a6b8a7738afd458ef11f9846aad4f
+      internalID: -1195677431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 377
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b2883baf18d741a27414688e6a019
+      internalID: 972490223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 377
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f826a673081ca488f9a982e634c887
+      internalID: 1478523140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 376
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1a6d03c084b0143a7e2e1cee16e840
+      internalID: 754575993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40929f49bc8ab847a185e3877df8496
+      internalID: -1245337693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_85
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 376
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f8697a5e0cd84fb88e14a570d4bf8
+      internalID: 1290681900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 376
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438974148a645645936f1f20dcaaf84
+      internalID: 122633712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_87
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 376
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890ddedcf96f044aac3310ea542ae78
+      internalID: -1121488691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac494841e6586340ba3556c134d49c0
+      internalID: -158506052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_89
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 376
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5016b509f54caab4f97c5a939fdf6cd7
+      internalID: 998529724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_90
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 376
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc599d11ab9184fa0489b4032c042e
+      internalID: -1027423829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 376
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0cc5e25b581741a007c5230282a94
+      internalID: 880324196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_92
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 395
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46303261f02fc444a5daa9e59c31b49
+      internalID: 492380518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_93
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 376
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38382c859af0ad54db8ca3551a5a1a9f
+      internalID: 1018598702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_94
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 376
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d60c69ca047049be9cf17168744dc
+      internalID: 745822111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_95
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 376
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f80e9e496f394e8d17218fd5e473f
+      internalID: 1424676700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_96
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 376
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621f171f1e452a348a2c7894d9d18aa1
+      internalID: 2027144690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_97
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 376
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0710adc9720ee54eb8ce49ccb59d4a1
+      internalID: -570700623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_98
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 385
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da1b6419c073bc48bd3b55c5092ac48
+      internalID: -1622331388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_99
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 379
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7afb495556ce4aa744673aa2ca503
+      internalID: 990644925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_100
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 376
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879fb05caad2b8345a3c3c5941e00f99
+      internalID: -753301897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_101
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 342
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1873615bf0e26547ac775581f7a934f
+      internalID: 721028306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 342
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99a9f3c93d1e64f835bc5c48af959d
+      internalID: 1161762935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_103
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 342
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef288cc408e334b9fab431fc64859d
+      internalID: 767358666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 342
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b2eb42fd8fad7479c0635c4c81eeec
+      internalID: -104706568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_105
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 342
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02da3ac405b285459c29c380bb66c04
+      internalID: 893790598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_106
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 345
+        width: 107
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6ebd206b20674cae5e71e55a685cf
+      internalID: 790109717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_107
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 332
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d354d82fc75684080213ce101eb7e1
+      internalID: 76927472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_108
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 331
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be131dcdf187f4419a452be35f9f782
+      internalID: 1552600634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_109
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 333
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c0f654d742124d8ae3d14fda88eef
+      internalID: 2006048922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_110
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 336
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef2c4f06e380aa4b821c4f4c7ce3656
+      internalID: -1517807234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_111
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 329
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81f1a3e624f61c44abbfc4b5a457784
+      internalID: -1510485695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_112
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 329
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ba9f533d52074298f5ba843a874ff
+      internalID: 1114891804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_113
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 330
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23a302fad7cc34e89bf817ce074a89
+      internalID: 59885144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_114
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 327
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e45ef17bb5444b97867218545ead3
+      internalID: -191128680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_115
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 326
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8146748bf4c3a004ea59df26ddc9bf6d
+      internalID: 1303947708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_116
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 330
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f79b4cea36658469feebf6946a2cfc
+      internalID: -512374545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079e58e360f7ef4790f8d232d3110c9
+      internalID: 2100151505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_118
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 287
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a256adbcb225164da6a8613b1979110
+      internalID: 1317274179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_119
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 293
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c5379a20ec1c42828becf67c3c413
+      internalID: 103418858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_120
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 283
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255343a33dcfa0b42a9a17477dfdc8d8
+      internalID: 981795724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_121
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 283
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9ff0ab38b39b04cad04d498b601944
+      internalID: -1196227035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_122
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 283
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e464aca42e9ec459f83c332d0ca871
+      internalID: 1117438025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_123
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 283
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9783225bb49f6449a62bf77b3704c8f
+      internalID: 1694756204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_124
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 283
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cb901de05aee4d88fb35ad87c7d6d
+      internalID: 878444283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_125
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 283
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554257e57739e2747aca45e0bacaa9ac
+      internalID: 549752862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_126
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 283
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8e3c6ec291eb4eaf136dac8d3be7d
+      internalID: 71393659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 283
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f6979cbd1a28458a8aba45d4f618a
+      internalID: 324633046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_128
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 285
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58766ec6e98fcf444b6bb2bfc4175943
+      internalID: -1550168329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_129
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 288
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f361b18d832b4fb3b6ad9b73f200a
+      internalID: -84127868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 287
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39c6b4018083c43bf495bb78183189
+      internalID: 1477028336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_131
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 287
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1232d1f68cec46adb95e215abe8d1
+      internalID: -1980164049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_132
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 281
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94fcd37b8fc904d9731e7761cd5bb6
+      internalID: -2113960566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 283
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a9dc3345d7a941b1625f3776c2079
+      internalID: 164518348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_134
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 285
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ebd9a83e08d714287f1e5852d8c43b
+      internalID: 220178487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_135
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 287
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a07f1fd053c124da5b1017c5e369b6
+      internalID: -1130025386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_136
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 287
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa3e609ec184624e852eaa4bf07edbe
+      internalID: 808719090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_137
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 284
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f4da9e1968b444b8494e48c62246b
+      internalID: 1942691136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_138
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 283
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c0a89eed1a834baf3f845af81257c
+      internalID: -465240234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_139
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 278
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8355aa729c84e4d9d8ce35e4f4eac8
+      internalID: -25395325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_140
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 235
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d1ce777437034ea1849b550d1c504
+      internalID: -308203528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_141
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 235
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0d1b2ac314b374c934352b940fe539
+      internalID: -1726462526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_142
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 235
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04913f5c2c181e44b9a266d792f5eb0e
+      internalID: -237815132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_143
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 235
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc3645613676dd45847870c8e0ed022
+      internalID: -820713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_144
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 235
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558999c743ac324bacdccd287d9e705
+      internalID: 1361803236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_145
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a878f8ccbb96ca4cb1506a6153e88da
+      internalID: 579232693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_146
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 236
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c32ba27eac4f2f479b9d937a03c6ebb
+      internalID: -697431673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 236
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443b18af9aac2a44b80fe863faad24a
+      internalID: 393075820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_148
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 236
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152d12f96d8f74498413f5adb66e904
+      internalID: -964700406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_149
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 236
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb03d3368954a945a4bca78d839dfb6
+      internalID: 746923931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 233
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44810f83c2004b4418163fd2e549e9a3
+      internalID: -585543045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_151
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 236
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653a7db126e1604d991de25af154487
+      internalID: -585179681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_152
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 236
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e290af97df4872419443abda6310cf3
+      internalID: 211803493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_153
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 236
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2bb48dbe7f33547a9d59861e7c4818
+      internalID: 1098763717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_154
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 230
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fef85059428c247920c39aae0dab82
+      internalID: 1279923411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_155
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 231
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44e4b7024323042b3ef419e7035328
+      internalID: -350529115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_156
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 174
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ef2c831aa4914ba1cdfa3f3da8598
+      internalID: -707181863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_157
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 178
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a957dedf45e9b4409c54c93f70c2552
+      internalID: 61609885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_158
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704f892f83a1e24bbef468de7b5940f
+      internalID: 1686276666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_159
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 175
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c480436254d1bf4d859cebbd685b9cc
+      internalID: 1676502303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_160
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 174
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350476cd568c214589495b046eea4dc
+      internalID: -319775361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_161
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 175
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d35d9533d85184a8ac8ec42ad0b8bb
+      internalID: -1589687572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_162
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 175
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afd76bea48665448e07bfbd4e0d450
+      internalID: -1841414391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_163
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 171
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032f690f6b387e459e8328dd1b27f13
+      internalID: -942066909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_164
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 174
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b362d0d61b951234182f669d5ab9460a
+      internalID: 721830830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_165
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 168
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a19cdf45777af647b5374090bad1df2
+      internalID: -2001937822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_166
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 173
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee1213b5e403d14f9b7820e3233095e
+      internalID: 975527078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_167
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 177
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f89487bb156304ca0626af213f04dd
+      internalID: -1634235088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_168
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 173
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07430dc7f2346e6448a8be38f3008cbf
+      internalID: 1389921684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_169
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 176
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2949be8643d1d4eadae228e7334131
+      internalID: -1838347084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_170
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 114
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce67f385d911c49a9f224764c55f4d
+      internalID: -780439857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_171
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 114
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf4adb6a455ba41919edee23bf0b8a
+      internalID: 1905016122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_172
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 116
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ccecfddee8ca546b080f39b6339415
+      internalID: -2050382937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_173
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 116
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b5485402b8e749a1cc4b771f20838
+      internalID: 1560998580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_174
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 116
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b1883495572f547b541f40bd7d2aaf
+      internalID: 175187099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_175
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 116
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ddfc141ba4d5843a8a09b1273ccf6f
+      internalID: 1360651962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_176
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 116
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c462277dffda01438b640bffd8af028
+      internalID: 412360053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_177
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 116
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfbaabfedac1494b8eca3d4a4b36804
+      internalID: 911708510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_178
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 116
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166730ae582c9dc4d89f60c4456576ce
+      internalID: -1359011499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_179
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 116
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c6d0ec9874b741ba6b4161e0da327
+      internalID: 722467670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_180
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 119
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04dfcb39da88ef4a9eb610f1a627eb6
+      internalID: -1600117762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_181
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 120
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7386f6068c837be479fd5e41ca712135
+      internalID: 179269724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_182
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c2c3fad287b1c4895564fdfc917ac2
+      internalID: 1213359990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_183
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aefc93ed0981f04a8f06629600a3729
+      internalID: -350088914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_188
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423213246c3cbe14590450b7e21f78c6
+      internalID: 963336669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_189
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e3b58d2b19fa438efad4b3490cee5
+      internalID: -1407380540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_190
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 65
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bde868ab2b36f4b9dfab58269b18df
+      internalID: -424412198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_191
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2960a3029f649f54da5499f379ce590c
+      internalID: 1283339013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_192
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1ef8a6436a12459adfdd938adbf9a
+      internalID: -333499699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf92d23795533649a6bf7c260c32b1b
+      internalID: -311101532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_194
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 65
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e20106b13860d479bc293619e6716c
+      internalID: 559935731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_195
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba4fa592455794380fba2486045dd3
+      internalID: 1269892878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_196
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 65
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b19c795242528469bef5947f8a9b3e
+      internalID: -313896044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_197
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 74
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8245655f4830fbe4caf17c9db5f32f6b
+      internalID: -1319302485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_198
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 74
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c0fee25ffb6c4a96417bf9fcf9bc9
+      internalID: -818579455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_199
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 77
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1f267649888a47850ba4db46f9a77
+      internalID: 1562343430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_200
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 74
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0067485b62a51754f9924a2379a02a40
+      internalID: 520790186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_201
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 76
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689135bb42e71e446a778e6f05135afa
+      internalID: 751032612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_202
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 75
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca46037362cb084fb3fab8ca605f022
+      internalID: -1893487865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_203
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 75
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60078fb813ed3da4a992043f038e431e
+      internalID: 1255729381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_204
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 75
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32b032186dbbc49a07485bc98c37ae
+      internalID: -996448094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_205
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 75
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e3b95a3e5bcf4fab93ef42c43f28c
+      internalID: 512902704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_206
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 75
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f56523b2719d542b0930e0be6fcfb2
+      internalID: -1704192726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_207
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 75
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198a0b5610a4344aad1510187666479
+      internalID: 857675371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_208
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b7534c5cc24ef438024a4d6cf2bd44
+      internalID: 1697073048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_209
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060c3411e4593441bdefcfeb072bee5
+      internalID: 1859604356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_210
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 80
+        width: 105
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0363391757de7c9499dd8070058ad1da
+      internalID: -1239756504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_213
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394956c475a58874fa8ef62542487892
+      internalID: 1210189543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_215
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b47b3b7966e4d4cb6787660e7be11d
+      internalID: 1921220242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_216
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601af339d7142464a9e7f5f424ad98d8
+      internalID: -151816981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_218
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 13
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f2df3407a06c4abae33f4e7bc2858
+      internalID: -2021578510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3d5a45355d7a4a8be2f18e3fcb90c
+      internalID: -733471723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_221
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 12
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa7358566c2644cac1cee2f2d9bcaa
+      internalID: 972085599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_222
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 12
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e01ded2d7c58a429f4e51c94ef6aa1
+      internalID: -1754788967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_223
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 11
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8400675dda56974b83ffc3c4913acf8
+      internalID: -1499615943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_224
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 12
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31e08c3c766a04db0303dc15ee14f4
+      internalID: -1521777302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_225
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 13
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98257d0a8332dd04b89d60795f04eeed
+      internalID: 961606543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_226
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 15
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bfa6b2039766f459f985e7309bcd91
+      internalID: -171861778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_227
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 13
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1461b8bb8de14e922f98d50bb2e08
+      internalID: -1842339882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_228
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 13
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42135b2835e753f40a2cb7b77dba13ad
+      internalID: 1710131688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_230
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 16
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d8f000efb58ed4780108ffb8b4da44
+      internalID: 1791642833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_231
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 12
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec8d7dc293dae4cac7a6f9fa28850c
+      internalID: -1602601888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_232
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 11
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c26203c2249854dbf970b7a030bdf3
+      internalID: 1973535463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_148: -964700406
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_116: -512374545
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_10: -2055724110
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_213: 1210189543
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_99: 990644925
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_16: 762198776
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_132: -2113960566
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_111: -1510485695
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_155: -350529115
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_88: -158506052
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_146: -697431673
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_185: 1754079098
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_63: -1697148229
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_59: 561170584
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_174: 175187099
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_17: -377497085
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_58: -2103049705
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_108: 1552600634
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_102: 1161762935
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_157: 61609885
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_169: -1838347084
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_30: 1355239778
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_129: -84127868
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_218: -2021578510
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_8: 1782706431
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_9: -1665191338
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_54: -1629813715
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_172: -2050382937
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_27: 182799829
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_208: 1697073048
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_25: 1583949449
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_186: -1013699436
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_137: 1942691136
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_2: -894296502
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_35: -2132614970
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_12: -1662021168
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_110: -1517807234
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_167: -1634235088
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_205: 512902704
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_3: -1179704152
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_101: 721028306
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_11: 619165842
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_210: -1239756504
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_7: -564194130
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_4: 1807765628
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_184: -1846459633
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_74: 1657521788
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_85: 1290681900
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_194: 559935731
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_47: 2005826509
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_86: 122633712
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_105: 893790598
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_130: 1477028336
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_14: 2053180000
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_92: 492380518
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_40: 426967501
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_38: 1455122477
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_96: 2027144690
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_89: 998529724
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_151: -585179681
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_173: 1560998580
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_166: 975527078
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_141: -1726462526
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_207: 857675371
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_97: -570700623
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_67: -2001024487
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_77: -2095889287
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_80: -1195677431
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_29: -1511852581
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_188: 963336669
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_125: 549752862
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_94: 745822111
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_126: 71393659
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_34: -1049457363
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_154: 1279923411
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_106: 790109717
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_162: -1841414391
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_215: 1921220242
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_50: -715696936
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_216: -151816981
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_202: -1893487865
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_189: -1407380540
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_64: 1899038295
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_153: 1098763717
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_201: 751032612
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_156: -707181863
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_175: 1360651962
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_150: -585543045
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_60: 323995686
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_28: 1025597043
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_190: -424412198
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_13: 1917752906
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_36: -224416599
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_209: 1859604356
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_163: -942066909
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_69: 767351110
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_142: -237815132
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_21: 468213791
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_214: -120066134
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_62: 415954494
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_193: -311101532
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_223: -1499615943
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_76: 1377797065
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_24: -1705531753
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_87: -1121488691
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_51: -1015474107
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_127: 324633046
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_91: 880324196
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_75: -954116841
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_122: 1117438025
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_123: 1694756204
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_37: 2093077557
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_143: -820713048
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_159: 1676502303
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_72: 251850436
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_135: -1130025386
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_20: -1224290580
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_100: -753301897
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_48: 1981940193
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_204: -996448094
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_15: -1528675593
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_39: -153590527
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_203: 1255729381
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_164: 721830830
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_83: 754575993
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_93: 1018598702
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_227: -1842339882
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_19: 771189176
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_78: 735359672
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_57: 820713060
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_120: 981795724
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_22: -323370262
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_179: 722467670
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_177: 911708510
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_73: -2128901091
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_81: 972490223
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_117: 2100151505
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_133: 164518348
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_199: 1562343430
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_230: 1791642833
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_79: -243688774
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_217: -1571613569
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_228: 1710131688
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_18: -1508542397
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_104: -104706568
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_211: -278010447
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_113: 59885144
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_55: 196139045
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_144: 1361803236
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_192: -333499699
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_44: -751322626
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_5: -965457680
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_49: 183082292
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_160: -319775361
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_220: -733471723
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_103: 767358666
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_128: -1550168329
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_52: 564642967
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_109: 2006048922
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_212: -1299399129
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_180: -1600117762
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_46: 336053261
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_178: -1359011499
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_198: -818579455
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_147: 393075820
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_149: 746923931
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_95: 1424676700
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_170: -780439857
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_119: 103418858
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_26: -1591960915
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_70: 2134537852
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_165: -2001937822
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_221: 972085599
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_6: 1145441581
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_23: 2020092354
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_65: 1129056103
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_31: -733735339
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_140: -308203528
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_158: 1686276666
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_45: 816078410
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_0: -776003224
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_84: -1245337693
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_118: 1317274179
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_68: 515961156
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_42: -786080996
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_229: -1016817596
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_98: -1622331388
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_121: -1196227035
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_53: 1351356873
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_139: -25395325
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_107: 76927472
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_182: 1213359990
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_136: 808719090
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_66: 1578257032
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_224: -1521777302
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_33: -1548191607
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_32: -1090135008
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_152: 211803493
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_71: 767920959
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_206: -1704192726
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_200: 520790186
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_115: 1303947708
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_82: 1478523140
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_191: 1283339013
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_197: -1319302485
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_56: -1608561457
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_114: -191128680
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_145: 579232693
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_226: -171861778
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_219: 1144823648
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_1: 272259842
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_61: 1735229359
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_90: -1027423829
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_176: 412360053
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_138: -465240234
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_41: -353289750
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_171: 1905016122
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_195: 1269892878
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_222: -1754788967
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_232: 1973535463
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_131: -1980164049
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_187: 975603647
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_183: -350088914
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_124: 878444283
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_181: 179269724
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_231: -1602601888
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_134: 220178487
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_196: -313896044
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_112: 1114891804
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_168: 1389921684
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_225: 961606543
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_43: 841863213
+      shadow_the_hedgehog_sprites_sheet_for_sonic_2__ros_by_asuharamoon_dasvyc1_161: -1589687572
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: c570fc852cefeb54c8fca03480508507
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_spooky_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef3423453482d459846b1ea1aa91b5
+      internalID: 1764745979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3540da9832b26c74cab78107a8a942f7
+      internalID: -708018302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c8e3ce8aaa864d9acafb6bb8b61e7
+      internalID: -955175581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed04d8043ec1ed4f9ef6213d2c8a97f
+      internalID: 2145000160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b511a900b0e7ab47b82572ebb7dca71
+      internalID: 1793656905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ae21608e551b4484b41adebf9e1ba
+      internalID: 1687150003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b3c2ecfb183cd4fb7eed6abe3c7717
+      internalID: -417799572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423416e8a0067049bb93d41d21f3311
+      internalID: 1649891891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079b9745036ef1845a6e13715f45c2e4
+      internalID: 1230782868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca76ef8510114f4980c66ccd5992d7a
+      internalID: -1102104247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8ad2165f9b6b4d8efc57de2330bf0
+      internalID: -166632759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66741e2342aeb6459e6ca475b7f0d52
+      internalID: 17145409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb573afc16c44144cbdf509e1842bb62
+      internalID: 658028282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589abdbd403da6e429bcda63c0008241
+      internalID: -1018055685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038e80f6631b0b499ba9d9bb61b9008
+      internalID: -246785982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1090
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f381dc05ab5c384c8875edbfe17c218
+      internalID: -1429070133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f9cfcb3e6d6ad48880214eceef7ee1
+      internalID: 738384624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a57bef569de3ac448204289acbb6bdf
+      internalID: 797586445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002fb746731eb9c429b0641f90fea079
+      internalID: 1424620684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a942cb4ad2e2a0419fdd1759738b99e
+      internalID: -1144904685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc803cb5c002bc4795d760fe6ab9530
+      internalID: 1258480352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d41dcf42acf34380a0259ae98631a
+      internalID: -2087175114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13408038c9498b3449ba28d4b3a8b321
+      internalID: 989843998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ae19088759e414684471d601910d06
+      internalID: -1793415501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43eeba77dc62244944ff4e78d2660d
+      internalID: -964619664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea865cbad0c304b9accb7511626017
+      internalID: 1798066807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace53806764e294ba470a5104af8c52
+      internalID: 846402428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa96a234e5a3744ca04eaec5fa10c61
+      internalID: -1742537192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb9a02e53baa224a8ccd9c0616093c4
+      internalID: 1020878044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf70297f8d77194da84c97f2cc89812
+      internalID: -1041770526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ee54db21b165499932fa37b761722
+      internalID: 14516754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5cf73e5d5ed641a027e83ebba9390
+      internalID: 1903238100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b80ec3ae77b8e478a0545b239b2d3c
+      internalID: -1853502706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2b02188109cf4f9be5be0f1ac51db
+      internalID: 1020705714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd88e13227eea45b00c88a11e717e7
+      internalID: -1949544805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8e9667174e3a4da4dad34b25f658b
+      internalID: -284993910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110a6a9cc885984fa4e25befdeb48b3
+      internalID: -1564719332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b30df6cc24294e83136e553faacd0
+      internalID: 1621892137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745403ddcf1db94cb9eea96e01e17a2
+      internalID: -829967205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2a76328a0b644dac29feedf85d6c0
+      internalID: -2124171178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93706fe9272de428065d8e5fb2afb5
+      internalID: -16191932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffacefb06dc2c6f408999fb30f47ca92
+      internalID: 685405085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dde691c6028c44497c2f3c182a0a4c
+      internalID: 1664764170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5ee1f612531f4d8ffce5b3dfd08da
+      internalID: -53267713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1039
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb8a861b226cc4e98b9c2dd2218029
+      internalID: -756469271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1039
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e2bc6193292844ae303f81dde4b61
+      internalID: -1723881033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1039
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ab4480cd5b114c8cd7093b5e11e7b
+      internalID: 763813890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1039
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81cf73a015e38a4c9fa192a42d52325
+      internalID: 1137790567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1039
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d360a9ea96df84a9967a5eee2bed50
+      internalID: 367856434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1039
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df248da4698a5ed47a2ea1de743106a8
+      internalID: 1061812243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a05971ed0f4a84691ffbaf889bddcf
+      internalID: -767504865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a98d830e56aa14c8a4e02aebebc855
+      internalID: 166719980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32826cf4c8d05a34e92ce32478037655
+      internalID: 2082751514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839539bb388bf448b0967b40f64061a
+      internalID: 1164646597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046529119a6e96429f9aaae7d15dbba
+      internalID: 664907279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397d9f335e159644bf48101bd0ed897
+      internalID: 189052640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5718c1ef4a9d30468250a51ff94471f
+      internalID: 1450063201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7ee2b2d0666a4f8174f574eb4548b
+      internalID: 586581965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c36d14a8883b40a205f0997d0fb86
+      internalID: 747160766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1022
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35040e11a5d926046bf5c9b15f2da54a
+      internalID: -706494906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6175b816a20ba4ca90a45629d0dd3b
+      internalID: 178862823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ea8daf524a484888c53b7dcc96270
+      internalID: -1441065350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf9a5bb1f8bd24686c3525ed27b1a6
+      internalID: -1405910786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd921e58152f40846ba2017c47a74095
+      internalID: 1139644759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dea62787d4ef2458b0a52073576f44
+      internalID: 538393256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd813e79e5d8ee41b50517a76dbd3dd
+      internalID: -1315302958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b91763675d4d846abe07f683936d70
+      internalID: -412529058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628fb4b405df51a41bc26b9c911c5b36
+      internalID: 1538147762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89a619c3d0a1b4eb0554588a694bf1
+      internalID: 391662919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917fc04e618a22245b3dc50237b3a91a
+      internalID: 1464674281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac630f9cb185394590d6147863432e7
+      internalID: 1757997155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322063bfe023e7d4cb9a821d5e8d84b9
+      internalID: 410810000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d607ec2ea45af4987ea7ab1523f45c
+      internalID: -1059405269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_spooky_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1005
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61840e79850f1934380f441412981171
+      internalID: -785358072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mario_spooky_tiles_57: 586581965
+      mario_spooky_tiles_15: -1429070133
+      mario_spooky_tiles_28: 1020878044
+      mario_spooky_tiles_29: -1041770526
+      mario_spooky_tiles_8: 1230782868
+      mario_spooky_tiles_32: -1853502706
+      mario_spooky_tiles_50: -767504865
+      mario_spooky_tiles_39: -2124171178
+      mario_spooky_tiles_43: -53267713
+      mario_spooky_tiles_59: -706494906
+      mario_spooky_tiles_49: 1061812243
+      mario_spooky_tiles_73: -785358072
+      mario_spooky_tiles_66: -412529058
+      mario_spooky_tiles_35: -284993910
+      mario_spooky_tiles_30: 14516754
+      mario_spooky_tiles_9: -1102104247
+      mario_spooky_tiles_24: -964619664
+      mario_spooky_tiles_72: -1059405269
+      mario_spooky_tiles_71: 410810000
+      mario_spooky_tiles_47: 1137790567
+      mario_spooky_tiles_12: 658028282
+      mario_spooky_tiles_58: 747160766
+      mario_spooky_tiles_54: 664907279
+      mario_spooky_tiles_2: -955175581
+      mario_spooky_tiles_70: 1757997155
+      mario_spooky_tiles_51: 166719980
+      mario_spooky_tiles_61: -1441065350
+      mario_spooky_tiles_1: -708018302
+      mario_spooky_tiles_17: 797586445
+      mario_spooky_tiles_46: 763813890
+      mario_spooky_tiles_26: 846402428
+      mario_spooky_tiles_44: -756469271
+      mario_spooky_tiles_42: 1664764170
+      mario_spooky_tiles_37: 1621892137
+      mario_spooky_tiles_11: 17145409
+      mario_spooky_tiles_0: 1764745979
+      mario_spooky_tiles_45: -1723881033
+      mario_spooky_tiles_23: -1793415501
+      mario_spooky_tiles_38: -829967205
+      mario_spooky_tiles_55: 189052640
+      mario_spooky_tiles_34: -1949544805
+      mario_spooky_tiles_60: 178862823
+      mario_spooky_tiles_25: 1798066807
+      mario_spooky_tiles_13: -1018055685
+      mario_spooky_tiles_31: 1903238100
+      mario_spooky_tiles_3: 2145000160
+      mario_spooky_tiles_5: 1687150003
+      mario_spooky_tiles_52: 2082751514
+      mario_spooky_tiles_18: 1424620684
+      mario_spooky_tiles_53: 1164646597
+      mario_spooky_tiles_19: -1144904685
+      mario_spooky_tiles_69: 1464674281
+      mario_spooky_tiles_16: 738384624
+      mario_spooky_tiles_68: 391662919
+      mario_spooky_tiles_63: 1139644759
+      mario_spooky_tiles_48: 367856434
+      mario_spooky_tiles_64: 538393256
+      mario_spooky_tiles_27: -1742537192
+      mario_spooky_tiles_67: 1538147762
+      mario_spooky_tiles_56: 1450063201
+      mario_spooky_tiles_40: -16191932
+      mario_spooky_tiles_41: 685405085
+      mario_spooky_tiles_36: -1564719332
+      mario_spooky_tiles_65: -1315302958
+      mario_spooky_tiles_14: -246785982
+      mario_spooky_tiles_33: 1020705714
+      mario_spooky_tiles_62: -1405910786
+      mario_spooky_tiles_21: -2087175114
+      mario_spooky_tiles_6: -417799572
+      mario_spooky_tiles_10: -166632759
+      mario_spooky_tiles_22: 989843998
+      mario_spooky_tiles_4: 1793656905
+      mario_spooky_tiles_20: 1258480352
+      mario_spooky_tiles_7: 1649891891
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

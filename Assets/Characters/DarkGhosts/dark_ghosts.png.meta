@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 0c649a5b88925f245a23351730b5951f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark_ghosts_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 578
+        width: 410
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c689f4c76647bad40b4cedaaf2a4a6f3
+      internalID: 546086741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 523
+        width: 234
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c13cf3051e64b44b13d303afa4a072
+      internalID: 1421497980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 491
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5d24749c038a4ab60720a903c9e8b
+      internalID: -1273184676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 491
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee30c208684c68c40aa8085fd4acbe92
+      internalID: 534793085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 475
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e131b19460b38840bce24139f24a2eb
+      internalID: -1169046451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 491
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d61dc1e44d044ab8ccead1a7e79c0
+      internalID: -1277988133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 254
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee81fd9c53e7e41b18a8570d04395d
+      internalID: 326381702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 253
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9343c8227c264bbdd7ff19b94a66b
+      internalID: -1639778904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 253
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f76d964a8547544a90c0b6e92cd642b
+      internalID: 227487470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 253
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ca0edfffcc104896a7835847e81ea
+      internalID: 1305737965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 253
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28040cafa407c8549a6097ed92b77f67
+      internalID: -1795080628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_41
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 253
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88203db6a208b43a08f284a7db9daf
+      internalID: 2055579950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 147
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2b1d0cfc05e2479054cbbac72acc2
+      internalID: 832971808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 148
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf611564e43b5d43a77d2b4546f1f9c
+      internalID: -1704676742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 148
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065cef88a57455a4199eae40c31a5712
+      internalID: -590313925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 148
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b91b3f9a2a4ee94d8ca1d5df9433b33
+      internalID: 1417856644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_46
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 148
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e322ecb5cd4aa4e96d3593a5ecf19a
+      internalID: -1897311645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 148
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67635cfb94026a48b44eb68df3f305e
+      internalID: 248812064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 415
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a242b8ab06440c240a59611924ab0986
+      internalID: 1660787696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 414
+        width: 125
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884f035978d37e4585ea851d64e260b
+      internalID: 725757066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 409
+        width: 135
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9eabf9244ef794f99c7ea4311bcd53
+      internalID: 1352614366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 400
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5626c3e0441b4e8ebb140b5088230
+      internalID: 639986951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 397
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f7f5e56e483d247a8b86faf7292bb8
+      internalID: 1410264549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 389
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902075dc1d3bea42ba99dac7f6021f3
+      internalID: 1289001215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d8faeadd002a4f8c152cd11c3999d
+      internalID: -548144469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea34a5664b960340baa18f1ec416a2d
+      internalID: -1412150249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243cd5473f80773419d11b57bcaabc37
+      internalID: 743257215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 7
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c236fe4dc6ac4498bf17f3efb50610
+      internalID: 880862607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 54
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a995ee764c384e85e8e75bb9d1c23
+      internalID: 730606967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 55
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf89e87ad095b24a8c5866d2a2bc367
+      internalID: -923522947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_ghosts_18
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 58
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d66217bb19254c9abe67a6de5f681
+      internalID: -147749740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dark_ghosts_11: 1289001215
+      dark_ghosts_44: -590313925
+      dark_ghosts_27: -605170553
+      dark_ghosts_58: -207927922
+      dark_ghosts_51: -1181000598
+      dark_ghosts_73: 182905968
+      dark_ghosts_49: -531110515
+      dark_ghosts_30: -712664767
+      dark_ghosts_50: -2140958140
+      dark_ghosts_69: -1977010764
+      dark_ghosts_82: 318955958
+      dark_ghosts_18: -147749740
+      dark_ghosts_25: -1759838518
+      dark_ghosts_57: -950775347
+      dark_ghosts_48: 1507933709
+      dark_ghosts_29: 706075021
+      dark_ghosts_45: 1417856644
+      dark_ghosts_19: -1592518775
+      dark_ghosts_7: 725757066
+      dark_ghosts_72: -1937793304
+      dark_ghosts_33: 650741341
+      dark_ghosts_0: 546086741
+      dark_ghosts_20: 1475307341
+      dark_ghosts_8: 1352614366
+      dark_ghosts_17: -923522947
+      dark_ghosts_55: -836259554
+      dark_ghosts_77: -1581365185
+      dark_ghosts_80: -659510712
+      dark_ghosts_1: 1421497980
+      dark_ghosts_64: -1967033572
+      dark_ghosts_13: -1412150249
+      dark_ghosts_15: 880862607
+      dark_ghosts_31: -559359359
+      dark_ghosts_52: 536903876
+      dark_ghosts_75: -1228034640
+      dark_ghosts_28: 1380001404
+      dark_ghosts_66: 1978525004
+      dark_ghosts_54: 189953572
+      dark_ghosts_79: -1397834188
+      dark_ghosts_76: 1740756124
+      dark_ghosts_21: 1587441640
+      dark_ghosts_38: 227487470
+      dark_ghosts_14: 743257215
+      dark_ghosts_61: 256383003
+      dark_ghosts_10: 1410264549
+      dark_ghosts_12: -548144469
+      dark_ghosts_84: 1998404840
+      dark_ghosts_32: -427841448
+      dark_ghosts_16: 730606967
+      dark_ghosts_22: 722718413
+      dark_ghosts_37: -1639778904
+      dark_ghosts_68: 1535858120
+      dark_ghosts_3: 534793085
+      dark_ghosts_36: 326381702
+      dark_ghosts_43: -1704676742
+      dark_ghosts_39: 1305737965
+      dark_ghosts_71: 1235545832
+      dark_ghosts_74: -379949519
+      dark_ghosts_46: -1897311645
+      dark_ghosts_47: 248812064
+      dark_ghosts_56: -1809468770
+      dark_ghosts_62: 985070060
+      dark_ghosts_78: 736634711
+      dark_ghosts_23: 1913916046
+      dark_ghosts_53: 2106905945
+      dark_ghosts_81: 1656778469
+      dark_ghosts_6: 1660787696
+      dark_ghosts_42: 832971808
+      dark_ghosts_24: -1078576435
+      dark_ghosts_41: 2055579950
+      dark_ghosts_26: 356460178
+      dark_ghosts_2: -1273184676
+      dark_ghosts_9: 639986951
+      dark_ghosts_67: -1570395729
+      dark_ghosts_4: -1169046451
+      dark_ghosts_65: -1925674056
+      dark_ghosts_35: -1110438399
+      dark_ghosts_63: -2080886544
+      dark_ghosts_60: -1792717511
+      dark_ghosts_59: 675610377
+      dark_ghosts_83: 310354177
+      dark_ghosts_70: 1801816386
+      dark_ghosts_40: -1795080628
+      dark_ghosts_5: -1277988133
+      dark_ghosts_34: -1342304402
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

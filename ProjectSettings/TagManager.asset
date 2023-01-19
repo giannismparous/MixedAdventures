@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Ground
+  - Enemy
+  - EnemyHead
+  - GravityChange
+  - UpwardHill
+  - DownwardHill
+  - PlayerHead
+  - Coin
+  - RedMushroom
+  - GreenMushroom
+  - PurpleMushroom
+  - BlueMushroom
+  - GiantMushroom
+  - KingMushroom
+  - Brick
+  - CheckForGround
+  - BossGround
+  - PlayerButtonCheck
+  - Boss
+  - LavaBubble
+  - PacManPowerup
+  - PacManCherry
+  - SonicShield
+  - MarioFireFlower
+  - PikachuThunderStone
+  - PikachuRareCandy
+  - Deoxys
+  - MenuMusic
+  - Border
+  - EnemyAttack
+  - NonKillableEnemy
+  - PlayerFeet
+  - EnemyFeet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Interactable
+  - Boss
+  - Items
+  - Player
+  - PlayerFeet
+  - EnemyFeet
+  - BowserFeet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGPhoto
+    uniqueID: 3032892919
+    locked: 0
+  - name: Background
+    uniqueID: 870709473
+    locked: 0
+  - name: BehindObjectsMobs
+    uniqueID: 2348927957
+    locked: 0
+  - name: Terrain
+    uniqueID: 3277094483
+    locked: 0
+  - name: Hill
+    uniqueID: 3322931987
+    locked: 0
+  - name: Mobs
+    uniqueID: 1680921967
+    locked: 0
+  - name: Items
+    uniqueID: 1111254057
+    locked: 0
+  - name: Player
+    uniqueID: 2680640391
+    locked: 0
+  - name: Attacks
+    uniqueID: 253406473
+    locked: 0
+  - name: Boss
+    uniqueID: 4036975537
+    locked: 0
+  - name: WaterOrLava
+    uniqueID: 3217029461
+    locked: 0
+  - name: UICounters
+    uniqueID: 3588504951
+    locked: 0
