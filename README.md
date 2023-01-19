@@ -5,7 +5,7 @@ Authors; [Giannis Mparous](https://github.com/giannismparous "Giannis Mparous")
 
 ## Introduction
 
-The reason why I developed this project was to learn Unity platformer game development in 2D. This project was completed in 3 months and when I started it I had no idea how to use Unity. The only thing I knew was to code in Java, which seemed to be very helpful since C# and Java are very much alike. I think the project turned out very well for a 3 months work. Check out the [Project Idea Document](https://github.com/giannismparous/MixedAdventures/blob/main/Mixed%20Adventures.pptx "Project Idea") for more info.
+The reason why I developed this project was to learn Unity platformer game development in 2D. This project was completed in 3 months and when I started it I had no idea how to use Unity. The only thing I knew was to code in Java, which seemed to be very helpful since C# and Java are very much alike. I think the project turned out very well for a 3 months work. Check out [Project Idea](https://github.com/giannismparous/MixedAdventures/blob/main/Mixed%20Adventures.pptx "Project Idea") for more info.
 
 ## Game Idea
 
