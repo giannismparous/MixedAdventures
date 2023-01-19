@@ -81,3 +81,10 @@ I don't own ANY of the music, images, icons, sounds effects, game sprites used i
 
 Git clone the repository and open it using Unity (you will be prompted to download the version of Unity the project was developed in). You can either hit player in Unity (starting scene is the "/Scenes/MainMenu" scene) or just hit "Project Settings"->"Build and Run" to run it as an executable (please select the build platform you are using, for example, Windows, WebGL doesn't work well unfortunately)
 
+## Bugs
+
+There are definitely bugs that I haven't spotted yet. The bugs are existing in this project are so many and I am the only person working on this project so I don't have the time to work on all of them so if anyone is willing to contribute the help will be much appreciated. 
+Some bugs that I know exist but haven't been able to fix:
+- Gengar can sometimes teleport through walls
+- Lakitu can throw spiny inside a box collider
+
