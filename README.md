@@ -74,7 +74,7 @@ They can all be found in the [Project Report](https://github.com/giannismparous/
 
 You can change the player data by editting the "Streaming Assets/player_data.json" file. 'y' means yes and 'n' means no. Also if you want to unlock up to a specific level of the game you will have to type in the "levelReached" parameter the level you want to reach minus 1 (for example, if you want to unlock all levels up to W4-L3 the "levelReached" parameter will have the value "14").
 
-## Copyrights Disclaimer ©
+## © Copyrights Disclaimer
 
 I don't own ANY of the music, images, icons, sounds effects, game sprites used in this project. They only belong to their creators/ makers/ producers. All the game assets were found on Google. This project was developed and uploaded ONLY FOR EDUCATIONAL PURPOSES.
 
