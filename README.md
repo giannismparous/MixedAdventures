@@ -5,7 +5,7 @@ Authors; [Giannis Mparous](https://github.com/giannismparous "Giannis Mparous")
 
 ## Introduction
 
-The reason why I developed this project was to learn Unity platformer game development in 2D. This project was completed in 3 months and when I started it I had no idea how to use Unity. The only thing I knew was to code in Java, which seemed to be very helpful since C# and Java are very much alike. I think the project turned out very well for a 3 months work.
+The reason why I developed this project was to learn Unity platformer game development in 2D. This project was completed in 3 months and when I started it I had no idea how to use Unity. The only thing I knew was to code in Java, which seemed to be very helpful since C# and Java are very much alike. I think the project turned out very well for a 3 months work. Check out the [Project Idea Document](https://github.com/giannismparous/MixedAdventures/blob/main/Mixed%20Adventures.pptx "Project Idea") for more info.
 
 ## Game Idea
 
@@ -55,11 +55,11 @@ Fourth World - Pokemon
 - Spooky
 - Deoxys
 
-Functionality can be found in the word document of the project
+Functionality can be found in the [Project Report](https://github.com/giannismparous/MixedAdventures/blob/main/ProjectReport-3190131.docx "Project Report").
 
 ## Enemies
 
-They can all be found in the word document of the project
+They can all be found in the [Project Report](https://github.com/giannismparous/MixedAdventures/blob/main/ProjectReport-3190131.docx "Project Report").
 
 ## Buttons
 
@@ -68,6 +68,7 @@ They can all be found in the word document of the project
 - You can shoot attack (if you have picked up the fire flower or the thunder stone) by hitting 'X'. You can also shoot upwards by holding down the "Up" arrow key and hitting 'X'.
 - You can jump and double jump with "Space".
 - You can zoom in and out the camera with 'I' and 'O' accordingly
+- Hit "ESC" to open up the escape menu while you are in a level
 
 ## Player Data
 
