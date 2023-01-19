@@ -1,4 +1,4 @@
-# MixedAdventures
+# Mixed Adventures
 A 2D platformer game developed in Unity
 
 Authors; [Giannis Mparous](https://github.com/giannismparous "Giannis Mparous")
