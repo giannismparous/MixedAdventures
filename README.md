@@ -79,5 +79,5 @@ I don't own ANY of the music, images, icons, sounds effects, game sprites used i
 
 ## How to run the project?
 
-- git clone the repository and open it using Unity (you will be prompted to download the version of Unity the project was developed in). You can either hit player in Unity (starting scene is the "/Scenes/MainMenu" scene) or just hit "Project Settings"->"Build and Run" to run it as an executable (please select the build platform you are using, for example, Windows, WebGL doesn't work well unfortunately)
+Git clone the repository and open it using Unity (you will be prompted to download the version of Unity the project was developed in). You can either hit player in Unity (starting scene is the "/Scenes/MainMenu" scene) or just hit "Project Settings"->"Build and Run" to run it as an executable (please select the build platform you are using, for example, Windows, WebGL doesn't work well unfortunately)
 
