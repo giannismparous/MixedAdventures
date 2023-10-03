@@ -11,6 +11,23 @@ The reason why I developed this project was to learn Unity platformer game devel
 
 Why not make a platformer game which is a merge of very well known games? The game sprites I used come from the games of Super Mario, Sonic, PacMan and Pokemon. The idea was also inspired by the game "Super Smash Bros".
 
+## Boss Levels Showcase
+
+# Bowser
+https://github.com/giannismparous/MixedAdventures/assets/76960115/253cc818-03d3-4d69-a8d8-331425596006
+
+# Robotnik
+https://github.com/giannismparous/MixedAdventures/assets/76960115/c5d67ff4-53ee-405a-9ab7-8f1f2bcba786
+
+# Spooky
+https://github.com/giannismparous/MixedAdventures/assets/76960115/25eeadb0-c7f4-4ada-824e-d32360df71de
+
+# Deoxys
+https://github.com/giannismparous/MixedAdventures/assets/76960115/6ab30f9e-af23-4c5f-9cfe-29d42b4d81c4
+
+
+
+
 ## Game Features
 
 - There are 4 worlds with 4 levels in each world. Each world contains background music, sprites, powerups, enemies and a boss from each game I used. 
